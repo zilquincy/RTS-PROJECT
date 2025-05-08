@@ -81,25 +81,22 @@ public class UnitSelectManager : MonoBehaviour
         if (unitsSelected.Contains(unit) == false)
         {
             unitsSelected.Add(unit);
-            TriggerSelectIndicator(unit, true);
-            EnableUnitMovement(unit, true);
-            
+            SelectUnit(unit, true);
+
         }
         else
         {
-            EnableUnitMovement(unit, false);
-            TriggerSelectIndicator(unit, false);
+            SelectUnit(unit, false);
             unitsSelected.Remove(unit);
             
         }
     }
 
-    private void DeselectAll()
+    public void DeselectAll()
     {
         foreach (var unit in unitsSelected)
         {
-            EnableUnitMovement(unit, false);
-            TriggerSelectIndicator(unit, false);
+            SelectUnit(unit, false);
         }
         GroundMaker.SetActive(false);
 
@@ -111,9 +108,15 @@ public class UnitSelectManager : MonoBehaviour
         DeselectAll();
 
         unitsSelected.Add(unit);
-        TriggerSelectIndicator(unit, true);
 
-        EnableUnitMovement(unit, true);
+        SelectUnit(unit, true);
+    }
+
+    private void SelectUnit(GameObject unit, bool isSelected)
+    {
+        TriggerSelectIndicator(unit, isSelected);
+
+        EnableUnitMovement(unit, isSelected);
     }
 
     private void EnableUnitMovement(GameObject unit, bool shouldMove)
@@ -124,5 +127,15 @@ public class UnitSelectManager : MonoBehaviour
     private void TriggerSelectIndicator(GameObject unit, bool isVisible)
     {
         unit.transform.GetChild(0).gameObject.SetActive(isVisible);
+    }
+
+    internal void DragSelect(GameObject unit)
+    {
+        if (unitsSelected.Contains(unit) == false)
+        {
+            unitsSelected.Add(unit);
+            SelectUnit(unit, true);
+
+        }
     }
 }
