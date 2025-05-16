@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEngine.GraphicsBuffer;
 
 public class UnitSelectManager : MonoBehaviour
 {
@@ -12,6 +13,10 @@ public class UnitSelectManager : MonoBehaviour
 
     public LayerMask Clickable;
     public LayerMask Ground;
+    public LayerMask attackable;
+
+    public bool AttackCursorVisible;
+
     public GameObject GroundMaker;
 
     private Camera cam;
@@ -74,7 +79,52 @@ public class UnitSelectManager : MonoBehaviour
             }
         }
 
+        //attack target
+
+        if (unitsSelected.Count > 0 && AtleastOneOffensiveUnit(unitsSelected))
+        {
+            RaycastHit hit;
+            Ray ray = cam.ScreenPointToRay(Input.mousePosition);
+
+            if (Physics.Raycast(ray, out hit, Mathf.Infinity, attackable))
+            {
+                Debug.Log("enemy diarahkan dengan mouse");
+
+                AttackCursorVisible = true;
+
+                if (Input.GetMouseButtonDown(0))
+                {
+                    Transform target = hit.transform;
+
+                    foreach(GameObject unit in unitsSelected)
+                    {
+                        if (unit.GetComponent<AttackController>())
+                        {
+                            unit.GetComponent<AttackController>().TargetToAttack = target;
+                        }
+                    }
+                }
+                
+            }
+            else
+            {
+                AttackCursorVisible = false;
+            }
         }
+
+    }
+
+    private bool AtleastOneOffensiveUnit(List<GameObject> unitsSelected)
+    {
+        foreach (GameObject unit in unitsSelected)
+        {
+            if (unit.GetComponent<AttackController>())
+            {
+                return true;
+            }
+        }
+        return false;
+    }
 
     private void MultiSelect(GameObject unit)
     {

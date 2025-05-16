@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\mygames project\\projectzero\\rts test\\my project\\assets\\unitfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\unitfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\mygames project\\projectzero\\rts test\\my project\\assets\\unitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\unitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\attackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\attackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\rtscameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\rtscameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\unitselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\unitselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\selectionunitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\selectionunitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\unitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\unitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\unitselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\unitselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\Unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\soruce\\Script\\Unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\mygames project\\projectzero\\rts test\\my project\\assets\\soruce\\script\\unitselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\unitselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +46,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitSelectManager.cs",
-              "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\UnitSelectManager.cs",
-              "RelativeDocumentMoniker": "Assets\\soruce\\Script\\UnitSelectManager.cs",
-              "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\UnitSelectManager.cs",
-              "RelativeToolTip": "Assets\\soruce\\Script\\UnitSelectManager.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAowGcAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UnitFollowState.cs",
+              "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitFollowState.cs",
+              "RelativeDocumentMoniker": "Assets\\UnitFollowState.cs",
+              "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitFollowState.cs",
+              "RelativeToolTip": "Assets\\UnitFollowState.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T05:08:08.009Z",
+              "WhenOpened": "2025-05-15T17:00:24.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitIdleState.cs",
+              "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\UnitIdleState.cs",
+              "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitIdleState.cs",
+              "RelativeToolTip": "Assets\\UnitIdleState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:39:45.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AttackController.cs",
+              "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\AttackController.cs",
+              "RelativeDocumentMoniker": "Assets\\soruce\\Script\\AttackController.cs",
+              "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\AttackController.cs",
+              "RelativeToolTip": "Assets\\soruce\\Script\\AttackController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:52:33.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RTSCameraController.cs",
+              "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\RTSCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\soruce\\Script\\RTSCameraController.cs",
+              "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\RTSCameraController.cs",
+              "RelativeToolTip": "Assets\\soruce\\Script\\RTSCameraController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:50:09.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectionUnitBox.cs",
+              "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\SelectionUnitBox.cs",
+              "RelativeDocumentMoniker": "Assets\\soruce\\Script\\SelectionUnitBox.cs",
+              "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\SelectionUnitBox.cs",
+              "RelativeToolTip": "Assets\\soruce\\Script\\SelectionUnitBox.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:04:31.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitSelectManager.cs",
+              "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\UnitSelectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\soruce\\Script\\UnitSelectManager.cs",
+              "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\UnitSelectManager.cs",
+              "RelativeToolTip": "Assets\\soruce\\Script\\UnitSelectManager.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:08:08.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Unit.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\Unit.cs",
               "RelativeDocumentMoniker": "Assets\\soruce\\Script\\Unit.cs",
@@ -51,12 +132,11 @@
               "RelativeToolTip": "Assets\\soruce\\Script\\Unit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T05:05:15.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T05:05:15.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "UnitSelect.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitSelect.cs",
               "RelativeDocumentMoniker": "Assets\\UnitSelect.cs",
@@ -64,12 +144,11 @@
               "RelativeToolTip": "Assets\\UnitSelect.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAcwDYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:48:48.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T05:48:48.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "UnitMovement.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitMovement.cs",
               "RelativeDocumentMoniker": "Assets\\UnitMovement.cs",
@@ -77,8 +156,7 @@
               "RelativeToolTip": "Assets\\UnitMovement.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T04:48:55.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T04:48:55.232Z"
             }
           ]
         }
