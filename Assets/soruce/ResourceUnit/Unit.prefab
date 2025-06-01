@@ -142,7 +142,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 40.42499, y: 1.088, z: 26.98}
-  m_LocalScale: {x: 0.35, y: 0.35, z: 0.35}
+  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1454529505151141435}
@@ -284,6 +284,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TargetToAttack: {fileID: 0}
+  idleStateMaterial: {fileID: 2100000, guid: eecbb4dab3bd6984db87913033877d48, type: 2}
+  followStateMaterial: {fileID: 2100000, guid: 12276c00646c1bb4d8d7e648f83898d3, type: 2}
+  attackStateMaterial: {fileID: 2100000, guid: 05e36409ba2f8cc47beb24f933191dd7, type: 2}
 --- !u!95 &4332023218533457285
 Animator:
   serializedVersion: 5
