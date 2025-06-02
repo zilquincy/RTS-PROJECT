@@ -8,11 +8,13 @@ public class AttackController : MonoBehaviour
     public Material idleStateMaterial;
     public Material followStateMaterial;
     public Material attackStateMaterial;
-    internal object unitDamage;
+
+    public bool isPlayer;
+    public int unitDamage;
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Enemy") && TargetToAttack == null)
+        if (isPlayer && other.CompareTag("Enemy") && TargetToAttack == null)
         {
             TargetToAttack = other.transform;
         }
@@ -20,7 +22,7 @@ public class AttackController : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.CompareTag("Enemy") && TargetToAttack != null)
+        if (isPlayer && other.CompareTag("Enemy") && TargetToAttack != null)
         {
             TargetToAttack = null;
         }

@@ -9,6 +9,10 @@ public class UnitAttackState : StateMachineBehaviour
     NavMeshAgent agent;
     AttackController attackController;
     public float stopAttackingDistance = 1.2f;
+
+    public float attackRate = 1f;
+
+    public float attackTimer;
     
     public override void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
@@ -24,9 +28,15 @@ public class UnitAttackState : StateMachineBehaviour
             LookAtTarget();
             agent.SetDestination(attackController.TargetToAttack.position);
 
-            var damageToInflict = attackController.unitDamage;
-
-            attackController.TargetToAttack.GetComponent<Enemy>().ReceiveDamage(damageToInflict);
+            if (attackTimer <= 0)
+            {
+                Attack();
+                attackTimer = 1f / attackRate;
+            }
+            else
+            {
+                attackTimer -= Time.deltaTime;
+            }
 
 
             float distanceFromTarget = Vector3.Distance(attackController.TargetToAttack.position, animator.transform.position);
@@ -34,6 +44,21 @@ public class UnitAttackState : StateMachineBehaviour
             {
                 animator.SetBool("isAttacking", false); 
             }
+        }
+    }
+    private void Attack()
+    {
+        Debug.Log("Attacking: " + attackController.TargetToAttack.name);
+        var damageToInflict = attackController.unitDamage;
+
+        var unit = attackController.TargetToAttack.GetComponent<Unit>();
+        if (unit != null)
+        {
+            unit.TakeDamage(damageToInflict);
+        }
+        else
+        {
+            Debug.LogWarning("Target does not have Unit script!");
         }
     }
 
