@@ -155,7 +155,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3fec7a01421dc84592376ce388de6e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 5
+  canAttack: 1
+  attackRange: 2
+  attackRate: 1
+  attackDamage: 10
+  targetTag: Player
 --- !u!54 &269566226
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -676,7 +681,7 @@ PrefabInstance:
     - target: {fileID: 1876076491076748652, guid: dc3b2391b01d2ed41bc847cb64462044,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 43.02
+      value: 48.7
       objectReference: {fileID: 0}
     - target: {fileID: 1876076491076748652, guid: dc3b2391b01d2ed41bc847cb64462044,
         type: 3}
@@ -742,6 +747,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Unit (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8850272276599293083, guid: dc3b2391b01d2ed41bc847cb64462044,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1429,10 +1439,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Unit (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2948952435606482370, guid: c45441f01a6eb8c4cba1c3af7e8d3484,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 3661842383697026122, guid: c45441f01a6eb8c4cba1c3af7e8d3484,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 34.26
+      value: 39.05
       objectReference: {fileID: 0}
     - target: {fileID: 3661842383697026122, guid: c45441f01a6eb8c4cba1c3af7e8d3484,
         type: 3}
@@ -1588,7 +1603,7 @@ PrefabInstance:
     - target: {fileID: 2949339217909271348, guid: ddca44f052dffa84eaa87fbb9ab46677,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 39.08
+      value: 44.88
       objectReference: {fileID: 0}
     - target: {fileID: 2949339217909271348, guid: ddca44f052dffa84eaa87fbb9ab46677,
         type: 3}
@@ -1752,6 +1767,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.5
+  canAttack: 1
+  attackRange: 2
+  attackRate: 1
+  attackDamage: 10
+  targetTag: Player
 --- !u!54 &8564734385343175582
 Rigidbody:
   m_ObjectHideFlags: 0

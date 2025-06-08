@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\unitselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\unitselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\selectionunitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\selectionunitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\unitselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\unitselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\mygames project\\projectzero\\rts test\\my project\\assets\\archerfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\archerfollowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\mygames project\\projectzero\\rts test\\my project\\assets\\archerattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\mygames project\\projectzero\\rts test\\my project\\assets\\soruce\\script\\archerattackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\archerattackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\archerattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\archerattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\mygames project\\projectzero\\rts test\\my project\\assets\\archeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\archeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\archeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\unitattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,36 +51,20 @@
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\attackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\unitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\unitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\unitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\unitidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\unitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\unitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\unitselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\unitselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\rtscameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\rtscameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\soruce\\script\\selectionunitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\soruce\\script\\selectionunitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\assets\\unitselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\unitselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,50 +74,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "ArcherAttackController.cs",
+              "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\ArcherAttackController.cs",
+              "RelativeDocumentMoniker": "Assets\\soruce\\Script\\ArcherAttackController.cs",
+              "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\ArcherAttackController.cs",
+              "RelativeToolTip": "Assets\\soruce\\Script\\ArcherAttackController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwCgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:32:17.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ArcherFollowState.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\ArcherFollowState.cs",
               "RelativeDocumentMoniker": "Assets\\ArcherFollowState.cs",
               "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\ArcherFollowState.cs",
               "RelativeToolTip": "Assets\\ArcherFollowState.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwC8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T11:29:26.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ArcherIdleState.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\ArcherIdleState.cs",
               "RelativeDocumentMoniker": "Assets\\ArcherIdleState.cs",
               "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\ArcherIdleState.cs",
               "RelativeToolTip": "Assets\\ArcherIdleState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T11:28:07.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ArcherAttackState.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\ArcherAttackState.cs",
               "RelativeDocumentMoniker": "Assets\\ArcherAttackState.cs",
               "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\ArcherAttackState.cs",
               "RelativeToolTip": "Assets\\ArcherAttackState.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAswEwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T09:41:19.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\soruce\\Script\\Enemy.cs",
@@ -121,25 +138,24 @@
               "RelativeToolTip": "Assets\\soruce\\Script\\Enemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T10:28:44.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T10:28:44.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UnitAttackState.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitAttackState.cs",
               "RelativeDocumentMoniker": "Assets\\UnitAttackState.cs",
               "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitAttackState.cs",
               "RelativeToolTip": "Assets\\UnitAttackState.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAIwE0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T15:03:18.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "UnitFollowState.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitFollowState.cs",
               "RelativeDocumentMoniker": "Assets\\UnitFollowState.cs",
@@ -152,20 +168,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "AttackController.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\AttackController.cs",
               "RelativeDocumentMoniker": "Assets\\soruce\\Script\\AttackController.cs",
               "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\AttackController.cs",
               "RelativeToolTip": "Assets\\soruce\\Script\\AttackController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T15:52:33.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "UnitIdleState.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitIdleState.cs",
               "RelativeDocumentMoniker": "Assets\\UnitIdleState.cs",
@@ -173,24 +189,24 @@
               "RelativeToolTip": "Assets\\UnitIdleState.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T16:39:45.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T16:39:45.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "SimplePatrol.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\SimplePatrol.cs",
               "RelativeDocumentMoniker": "Assets\\soruce\\Script\\SimplePatrol.cs",
               "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\SimplePatrol.cs",
               "RelativeToolTip": "Assets\\soruce\\Script\\SimplePatrol.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T17:30:08.841Z"
+              "WhenOpened": "2025-05-15T17:30:08.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "UnitMovement.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitMovement.cs",
               "RelativeDocumentMoniker": "Assets\\UnitMovement.cs",
@@ -202,19 +218,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "UnitSelectManager.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\UnitSelectManager.cs",
               "RelativeDocumentMoniker": "Assets\\soruce\\Script\\UnitSelectManager.cs",
               "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\UnitSelectManager.cs",
               "RelativeToolTip": "Assets\\soruce\\Script\\UnitSelectManager.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAD4v30AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAIAywD8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T05:08:08.009Z"
+              "WhenOpened": "2025-03-25T05:08:08.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "RTSCameraController.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\RTSCameraController.cs",
               "RelativeDocumentMoniker": "Assets\\soruce\\Script\\RTSCameraController.cs",
@@ -226,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "SelectionUnitBox.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\SelectionUnitBox.cs",
               "RelativeDocumentMoniker": "Assets\\soruce\\Script\\SelectionUnitBox.cs",
@@ -234,31 +251,34 @@
               "RelativeToolTip": "Assets\\soruce\\Script\\SelectionUnitBox.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAmwCYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T06:04:31.642Z"
+              "WhenOpened": "2025-05-08T06:04:31.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Unit.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\Unit.cs",
               "RelativeDocumentMoniker": "Assets\\soruce\\Script\\Unit.cs",
               "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\soruce\\Script\\Unit.cs",
               "RelativeToolTip": "Assets\\soruce\\Script\\Unit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T05:05:15.328Z"
+              "WhenOpened": "2025-03-25T05:05:15.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "UnitSelect.cs",
               "DocumentMoniker": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitSelect.cs",
               "RelativeDocumentMoniker": "Assets\\UnitSelect.cs",
               "ToolTip": "D:\\Mygames Project\\ProjectZero\\RTS Test\\My project\\Assets\\UnitSelect.cs",
               "RelativeToolTip": "Assets\\UnitSelect.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwDYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswDYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:48:48.035Z"
+              "WhenOpened": "2025-03-17T05:48:48.035Z",
+              "EditorCaption": ""
             }
           ]
         }
